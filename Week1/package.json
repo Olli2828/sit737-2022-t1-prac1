@@ -1,0 +1,1 @@
+{"name":"node-server","description":"A sample Node.js app using Express 4","dependencies":{"command":"^0.0.1","express":"*"},"author":"Alessio Bonti","license":"MIT"}
